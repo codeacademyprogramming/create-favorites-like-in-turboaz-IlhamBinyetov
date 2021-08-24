@@ -1,0 +1,30 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.car1 {
+  width: 30px;
+  color: red;
+  height: 100vh;
+}
+
+.cars img {
+  width: 100%;
+  margin-top: 50px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.cars {
+  border: 1px solid black;
+  width: 24%;
+  margin-top: 10px;
+  margin-left: 5px;
+  padding: 5px;
+}
